@@ -9,7 +9,7 @@ const Main = () => {
     <section className="resume-section" id="about">
                 <div className="resume-section-content">
                     <h1 className="mb-0">
-                        Ignacio 
+                        Diego Ignacio 
                         <span className="text-primary"> Cid</span>
                     </h1>
                     <div className="subheading mb-5">
