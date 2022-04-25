@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DiegoIgnacioCid/OnlineCV/static/css/main.3247cfae.css",
+    "main.js": "/DiegoIgnacioCid/OnlineCV/static/js/main.491313f1.js",
+    "static/js/787.733be76b.chunk.js": "/DiegoIgnacioCid/OnlineCV/static/js/787.733be76b.chunk.js",
+    "static/media/dev.jpg": "/DiegoIgnacioCid/OnlineCV/static/media/dev.280728898cb51cfb2ccf.jpg",
+    "static/media/logo.svg": "/DiegoIgnacioCid/OnlineCV/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DiegoIgnacioCid/OnlineCV/index.html",
+    "main.3247cfae.css.map": "/DiegoIgnacioCid/OnlineCV/static/css/main.3247cfae.css.map",
+    "main.491313f1.js.map": "/DiegoIgnacioCid/OnlineCV/static/js/main.491313f1.js.map",
+    "787.733be76b.chunk.js.map": "/DiegoIgnacioCid/OnlineCV/static/js/787.733be76b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3247cfae.css",
+    "static/js/main.491313f1.js"
+  ]
+}
