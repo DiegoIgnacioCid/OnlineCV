@@ -1,0 +1,51 @@
+import React from 'react'
+import '../../styles.css';
+import Portfolioitem from '../Portfolioitem/Portfolioitem';
+
+
+const Portfolio = () => {
+  return (
+    <section className="resume-section" id="portfolio">
+            <div className="resume-section-content">
+                <h2 className="mb-5">Portfolio</h2>
+                <div className="subheading mb-3">A few of the  projects I worked on</div>
+
+                
+                <ul className="fa-ul mb-0">
+                    <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webSite={"https://diegoignaciocid.github.io/aframe-test/"}
+                        description={"Insanity - Labyrinth game. Javascript + libraries (aframe, Howler, etc.)."}
+
+                    ></Portfolioitem>
+                    <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        description={"Memorian - Card pairing game. React JS."}
+
+                    ></Portfolioitem>
+                    <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        description={"Online CV - Bootstrap template developed in React."}
+
+                    ></Portfolioitem>
+                    <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        description={"Severance Calculator - Vanilla Javascript + libraries (Luxon, Toastify, Numeral, Howler, etc.)"}
+
+                    ></Portfolioitem>
+                    <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        description={"Web page - One page layout based in a Bootstrap template."}
+
+                    ></Portfolioitem>
+                </ul>
+            </div>
+        </section>
+  )
+}
+
+export default Portfolio
