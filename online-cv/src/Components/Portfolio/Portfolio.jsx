@@ -39,7 +39,7 @@ const Portfolio = () => {
                     <Portfolioitem
                         webCode={"https://github.com/DiegoIgnacioCid/Forastero-Onepage"}
                         webSite={"https://diegoignaciocid.github.io/Forastero-Onepage/"}
-                        description={"Web page - One page layout based in a Bootstrap template."}
+                        description={"Web page - A single page layout based in a Bootstrap for a small chocolate factory."}
 
                     ></Portfolioitem>
                 </ul>

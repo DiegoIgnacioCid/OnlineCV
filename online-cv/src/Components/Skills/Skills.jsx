@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles.css';
+import Skillitem from './Skillitem';
 
 const Skills = () => {
   return (
@@ -25,22 +26,21 @@ const Skills = () => {
                 </ul>
                 <div className="subheading mb-3">Workflow</div>
                 <ul className="fa-ul mb-0">
-                    <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
-                        Mobile-First, Responsive Design
-                    </li>
-                    <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
-                        Cross Browser Testing & Debugging
-                    </li>
-                    <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
-                        Cross Functional Teams
-                    </li>
-                    <li>
-                        <span className="fa-li"><i className="fas fa-check"></i></span>
-                        Agile Development & Scrum
-                    </li>
+                    
+                    <Skillitem
+                        description={"Mobile-First, Responsive Design"}
+                    ></Skillitem>
+                    <Skillitem
+                        description={"Cross browser testing and debugging"}
+                    ></Skillitem>
+                    <Skillitem
+                        description={"BEM, Atomic and other methodologies"}
+                    ></Skillitem>
+                    <Skillitem
+                        description={"Agile development & Scrum"}
+                    ></Skillitem>
+                    
+                    
                 </ul>
             </div>
         </section>

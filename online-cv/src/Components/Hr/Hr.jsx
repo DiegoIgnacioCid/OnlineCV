@@ -4,7 +4,7 @@ import '../../styles.css';
 
 const Hr = () => {
   return (
-    <hr class="m-0" />
+    <hr className="m-0" />
   )
 }
 
