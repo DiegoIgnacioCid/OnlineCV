@@ -8,12 +8,12 @@ const Portfolio = () => {
     <section className="resume-section" id="portfolio">
             <div className="resume-section-content">
                 <h2 className="mb-5">Portfolio</h2>
-                <div className="subheading mb-3">A few of the  projects I worked on</div>
+                <div className="subheading mb-3">A few of the  projects I worked in...</div>
 
                 
                 <ul className="fa-ul mb-0">
                     <Portfolioitem
-                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
+                        webCode={"https://github.com/DiegoIgnacioCid/aframe-test"}
                         webSite={"https://diegoignaciocid.github.io/aframe-test/"}
                         description={"Insanity - Labyrinth game. Javascript + libraries (aframe, Howler, etc.)."}
 
@@ -25,8 +25,8 @@ const Portfolio = () => {
 
                     ></Portfolioitem>
                     <Portfolioitem
-                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
-                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        webCode={"https://github.com/DiegoIgnacioCid/OnlineCV"}
+                        webSite={"https://diegoignaciocid.github.io/OnlineCV/"}
                         description={"Online CV - Bootstrap template developed in React."}
 
                     ></Portfolioitem>
@@ -37,8 +37,8 @@ const Portfolio = () => {
 
                     ></Portfolioitem>
                     <Portfolioitem
-                        webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
-                        webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
+                        webCode={"https://github.com/DiegoIgnacioCid/Forastero-Onepage"}
+                        webSite={"https://diegoignaciocid.github.io/Forastero-Onepage/"}
                         description={"Web page - One page layout based in a Bootstrap template."}
 
                     ></Portfolioitem>
