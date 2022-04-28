@@ -1,6 +1,6 @@
 import React from 'react';
 import "../../styles.css";
-import image from '../../Assets/dev.jpg';
+import image from '../../Assets/dev2.jpg';
 
 const Navbar = () => {
   return (
