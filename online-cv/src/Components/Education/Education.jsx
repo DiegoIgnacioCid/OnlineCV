@@ -9,21 +9,21 @@ const Education = () => {
                 
                 
                 <Educationitem
-                    title={"CoderHaus"}
+                    title={"CoderHouse"}
                     subtitle={"ReactJS"}
                     description={"Web Development Track - ReactJS online course"}
                               
                 ></Educationitem>
 
                 <Educationitem
-                    title={"CoderHaus"}
+                    title={"CoderHouse"}
                     subtitle={"JavaScript"}
                     description={"Web Development Track - Javascript online course"}
                               
                 ></Educationitem>
                 
                 <Educationitem
-                    title={"CoderHaus"}
+                    title={"CoderHouse"}
                     subtitle={"Web Development"}
                     description={"Web Development Track - HTML, CSS, SASS, Frameworks"}
                               
