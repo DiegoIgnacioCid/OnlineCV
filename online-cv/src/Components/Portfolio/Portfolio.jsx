@@ -18,12 +18,12 @@ const Portfolio = () => {
                         description={"Insanity - Labyrinth game. Javascript + libraries (aframe, Howler, etc.)."}
 
                     ></Portfolioitem>
-                    <Portfolioitem
+                   {/*  <Portfolioitem
                         webCode={"https://github.com/DiegoIgnacioCid/ProyectoFinal-JS-DiegoCid"}
                         webSite={"https://diegoignaciocid.github.io/ProyectoFinal-JS-DiegoCid/"}
                         description={"Memorian - Card pairing game. React JS."}
 
-                    ></Portfolioitem>
+                    ></Portfolioitem> */}
                     <Portfolioitem
                         webCode={"https://github.com/DiegoIgnacioCid/OnlineCV"}
                         webSite={"https://diegoignaciocid.github.io/OnlineCV/"}
