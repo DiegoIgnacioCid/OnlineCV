@@ -13,6 +13,12 @@ const Portfolio = () => {
                 
                 <ul className="fa-ul mb-0">
                     <Portfolioitem
+                        webCode={"https://github.com/DiegoIgnacioCid/DiegoIgnacioCid.github.io"}
+                        webSite={"https://diegoignaciocid.github.io/"}
+                        description={"Käse - Ecommerce developed in React using Firebase."}
+
+                    ></Portfolioitem>
+                    <Portfolioitem
                         webCode={"https://github.com/DiegoIgnacioCid/aframe-test"}
                         webSite={"https://diegoignaciocid.github.io/aframe-test/"}
                         description={"Insanity - Labyrinth game. Javascript + libraries (aframe, Howler, etc.)."}
