@@ -14,7 +14,7 @@ const Main = () => {
                     </h1>
                     <div className="subheading mb-5">
                         City of Buenos Aires, Argentina ·  
-                        <a href="mailto:name@email.com">diegoigcid@gmail.com</a>
+                        <a href="mailto:diegoigcid@gmail.com">diegoigcid@gmail.com</a>
                     </div>
                     <p className="lead mb-5">With a background as an attorney providing services in top level law firms and as an inhouse counselor, I discovered a passion for web development, computer programming and IT in general. Educated in web development, JavaScript, ReactJS, Python, and other languages, libraries and frameworks. </p>
                     <div className="social-icons">
