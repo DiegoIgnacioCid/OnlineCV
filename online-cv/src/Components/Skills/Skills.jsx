@@ -19,6 +19,7 @@ const Skills = () => {
                     <li className="list-inline-item"><i className="fab fa-npm"></i></li>
                     <li className="list-inline-item"><i className="fab fa-github"></i></li>
                     <li className="list-inline-item"><i className="fab fa-git"></i></li>
+                    <li className="list-inline-item"><i className="fab fa-docker"></i></li>
                     {/* <li className="list-inline-item"><i className="fab fa-less"></i></li> */}
                     {/* <li className="list-inline-item"><i className="fab fa-wordpress"></i></li>
                     <li className="list-inline-item"><i className="fab fa-gulp"></i></li>
